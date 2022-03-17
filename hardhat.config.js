@@ -6,9 +6,10 @@ dotenv.config();
 
 module.exports = {
   solidity: "0.8.7",
+  defaultNetwork: "rinkeby",
   networks: {
     rinkeby: {
-      url: process.env.ALCHEMY_API_URL,
+      url: process.env.INFURA_API_URL,
       accounts: [process.env.PRIVATE_RINKEBY_ACCOUNT_KEY],
     },
   },

@@ -12,4 +12,4 @@ This repo contains two (2) smart contracts titled erc20 and erc721 as well as an
 
 ### ERC721 Etherscan Address
 
-[https://rinkeby.etherscan.io/address/0x27A86AeD64EC43c5e786Fde486EfC1767Fc471ca](https://rinkeby.etherscan.io/address/0x27A86AeD64EC43c5e786Fde486EfC1767Fc471ca)
+[https://rinkeby.etherscan.io/address/0x9494fde40a870fe6e469b5667bccf4ee2fa74559](https://rinkeby.etherscan.io/address/0x9494fde40a870fe6e469b5667bccf4ee2fa74559)
