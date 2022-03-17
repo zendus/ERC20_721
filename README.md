@@ -1,15 +1,15 @@
-# Basic Sample Hardhat Project
+# Blockgames x Zuri x Nestcoin [Task 3]
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+This repo contains two (2) smart contracts titled erc20 and erc721 as well as an interface(IERC20). Both smart contract files contains custom implementation of Ethereum Request for Comments. Example, erc20 has buyToken payable function which mints and sends specified amount of token to an address. There is also on-chain storage of NFT metadata in erc721. Hardhat was used in development of the smart contract. Deployment was done using Rinkeby testnet.
 
-Try running some of the following tasks:
+### IPFS Image Link
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+[ipfs.io/ipfs/Qmdiozx9cZVGHkh5T57V5g1DFkqDh46syZXqry7rPoAh9Q](https://ipfs.io/ipfs/Qmdiozx9cZVGHkh5T57V5g1DFkqDh46syZXqry7rPoAh9Q)
+
+### ERC20 Etherscan Address
+
+[https://rinkeby.etherscan.io/address/0xe279C43Fbc51856162B74bb5ea807C158C68d6c1](https://rinkeby.etherscan.io/address/0xe279C43Fbc51856162B74bb5ea807C158C68d6c1)
+
+### ERC721 Etherscan Address
+
+[https://rinkeby.etherscan.io/address/0x27A86AeD64EC43c5e786Fde486EfC1767Fc471ca](https://rinkeby.etherscan.io/address/0x27A86AeD64EC43c5e786Fde486EfC1767Fc471ca)
